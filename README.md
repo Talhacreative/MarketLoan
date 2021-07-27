@@ -1,0 +1,2 @@
+# MarketLoan
+Basically the purpose of this project was that it was created for market Loan For example in a market if any person of market need some loan Firstly he was rejistered him self with his CNIC or name Then any time if he want loan then admin can check easily that he was the member of market or not by his CNIC if he was then he gave loan and whole return amount date was also the part of the record.
